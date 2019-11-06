@@ -7,7 +7,7 @@
 
     <title>Dillon Constantine</title>
 
-    <!--<base href="https://dillonconstantine.com/">-->
+    <base href="https://dillonconstantine.com/">
 
     <link rel="canonical" href="https://dillonconstantine.com/">
     <link rel="icon" href="favicon.ico" type="image/x-icon"/>
