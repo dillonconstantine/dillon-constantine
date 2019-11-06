@@ -93,7 +93,7 @@
                         <img class="shadow-xl rounded" src="img/skynet.png">
                     </div>
                     <div class="flex flex-col justify-center px-2 mt-8 lg:w-1/2 lg:pl-16 lg:mt-0">
-                        <h2 class="font-bold text-2xl serif">Skynet (WIP)<h2>
+                        <h2 class="font-bold text-2xl serif">Skynet <i class="la la-robot"></i> (WIP)<h2>
                         <div class="mt-4 sans-serif">
                             <p>
                                 A personal project I embarked on for a mixture of fun, challenge and development of my skills.
