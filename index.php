@@ -50,12 +50,12 @@
                     Hello, I'm Dillon!
                 </p>
                 <p>
-                    I'm an aspiring web developer based in Sheffield.
+                    I'm an aspiring professional web developer based in Sheffield.
                 </p>
             </div>
             <div class="mx-auto mt-8 w-3/5 sans-serif">
                 <p>
-                    I've been a hobbyist web developer for over a decade and have now decided I want to pursue web development as a career. I'm looking to find work at a company where I can continue to grow as a person and as a developer.
+                    I've been a hobbyist web developer for over a decade and now I want to pursue professional web development as a career. I'm looking to find work at a company where I can continue to grow as a person and as a developer.
                 </p>
             </div>
         </div>
@@ -102,7 +102,7 @@
                                 The site aims to be able to automate betting strategies on a betting exchange such as Smarkets.
                             </p>
                             <p class="mt-4">
-                                Selenium WebDriver is used to interact with Smarkets in the background which then passes the data to Pusher and feeds it to my frontend via WebSockets in realtime.
+                                Selenium WebDriver is used to interact with Smarkets in the background which then passes the data to Pusher and feeds it to my frontend in realtime.
                             </p>
                             <p class="mt-4">
                                 This realtime feed of data can then be used to implement functionality to automate betting strategies via filters and parameters.
@@ -111,7 +111,7 @@
                                 This project isn't currently publicly hosted.
                             </p>
                             <p class="mt-4 text-sm monospace">
-                                Software: Laravel, VueJS, Bootstrap, Selenium WebDriver, Pusher
+                                Software: Laravel, VueJS, jQuery, Bootstrap, Selenium WebDriver, Pusher
                             </p>
                         </div>
                     </div>
