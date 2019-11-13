@@ -44,8 +44,11 @@
 </head>
 <body>
     <main>
+        <div class="text-right pt-4 pr-4">
+            <a class="hover:text-blue-500" href="https://github.com/dillonconstantine/" target="_blank"><i class="la la-github text-3xl"></i><a>
+        </div>
         <div class="container mx-auto text-center px-8">
-            <div class="mt-16 text-4xl serif">
+            <div class="mt-12 text-4xl serif">
                 <p class="mb-2">
                     Hello, I'm Dillon!
                 </p>
@@ -82,9 +85,17 @@
                                 <p class="mt-4">
                                     reCAPTCHA v3 is used on the contact page to help prevent spam in the least intrusive way possible.
                                 </p>
-                                <p class="mt-4 text-sm monospace">
-                                    Software: Laravel, VueJS, Tailwind
-                                </p>
+                                <div class="text-sm monospace mt-4">
+                                    <p>
+                                        Link: <a class="underline hover:text-blue-500" href="https://smssashwindowspecialist.co.uk/" target="_blank">https://smssashwindowspecialist.co.uk/</a>
+                                    </p>
+                                    <p class="mt-2">
+                                        Source: <a class="underline hover:text-blue-500" href="https://github.com/dillonconstantine/sms-sash-window-specialist" target="_blank">dillonconstantine/sms-sash-window-specialist</a>
+                                    </p>
+                                    <p class="mt-2">
+                                        Software: Laravel, VueJS, Tailwind
+                                    </p>
+                                </div>
                             </div>
                     </div>
                 </div>
@@ -111,7 +122,7 @@
                                 This project isn't currently publicly hosted.
                             </p>
                             <p class="mt-4 text-sm monospace">
-                                Software: Laravel, VueJS, jQuery, Bootstrap, Selenium WebDriver, Pusher
+                                Software: Laravel, VueJS, jQuery, Bootstrap, Selenium, Pusher
                             </p>
                         </div>
                     </div>
@@ -122,9 +133,6 @@
     <footer class="p-4 text-center text-sm monospace bg-gray-900 text-white">
         <p>
             &#169; <?= date('Y') ?> Dillon Constantine | &#x63;&#x6f;&#x6e;&#x74;&#x61;&#x63;&#x74;&#x40;&#x64;&#x69;&#x6c;&#x6c;&#x6f;&#x6e;&#x63;&#x6f;&#x6e;&#x73;&#x74;&#x61;&#x6e;&#x74;&#x69;&#x6e;&#x65;&#x2e;&#x63;&#x6f;&#x6d;
-        </p>
-        <p class="mt-2">
-            <a href="https://github.com/dillonconstantine/" target="_blank"><i class="la la-github text-3xl"></i><a>
         </p>
     </footer>
 </body>
