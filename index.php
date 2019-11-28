@@ -53,12 +53,12 @@
                     Hello, I'm Dillon!
                 </p>
                 <p>
-                    I'm an aspiring professional web developer based in Sheffield.
+                    I'm a web developer based in Sheffield.
                 </p>
             </div>
             <div class="mx-auto mt-8 w-3/5 sans-serif">
                 <p>
-                    I've been a hobbyist web developer for over a decade and now I want to pursue professional web development as a career. I'm looking to find work at a company where I can continue to grow as a person and as a developer.
+                    I studied Web Systems Design at Sheffield Hallam University and I now want to pursue professional web development as a career. I'm looking to find work at a company where I can continue to grow as a person and as a developer.
                 </p>
             </div>
         </div>
