@@ -45,7 +45,7 @@
 <body>
     <main>
         <div class="text-right pt-4 pr-4">
-            <a class="hover:text-blue-500" href="https://github.com/dillonconstantine/" target="_blank"><i class="la la-github text-3xl"></i><a>
+            <a class="hover:text-blue-500" href="https://github.com/dillonconstantine/" target="_blank"><i class="la la-github text-3xl"></i></a>
         </div>
         <div class="container mx-auto text-center px-8">
             <div class="mt-12 text-4xl serif">
@@ -58,12 +58,77 @@
             </div>
             <div class="mx-auto mt-8 w-3/5 sans-serif">
                 <p>
-                    I studied Web Systems Design at Sheffield Hallam University and I now want to pursue professional web development as a career. I'm looking to find work at a company where I can continue to grow as a person and as a developer.
+                    I previously studied Web Systems Design at Sheffield Hallam University and I now want to pursue professional web development as a career. I'm looking to find work at a company where I can continue to grow as a person and as a developer.
                 </p>
             </div>
         </div>
         <div class="bg-work pt-8 px-8 pb-12 mt-12">
             <div class="container mx-auto">
+                <div class="flex flex flex-col items-center mt-12 lg:flex-row">
+                    <div class="flex items-center lg:w-1/2">
+                        <a href="https://book-api.dillonconstantine.com/" target="_blank">
+                            <img class="shadow-xl rounded" src="img/book-api.png">
+                        </a>
+                    </div>
+                    <div class="flex flex-col justify-center px-2 mt-8 lg:w-1/2 lg:pl-16 lg:mt-0">
+                        <h2 class="font-bold text-2xl serif">Book API<h2>
+                        <div class="mt-4 sans-serif">
+                            <p>
+                                Book API is my most recent project built with the Laravel framework and makes use of the Laravel Passport package to provide a full OAuth2 server implementation.
+                            </p>
+                            <p class="mt-4">
+                                It makes use of a number of Laravel features such as form requests, API resources and custom middleware.
+                            </p>
+                            <p class="mt-4">
+                                It follows the JSON:API specification for building APIs in JSON, and was built as a project to demonstrate my knowledge of RESTful APIs.
+                            </p>
+                            <div class="text-sm monospace mt-4">
+                                <p>
+                                    Link: <a class="underline hover:text-blue-500" href="https://book-api.dillonconstantine.com/" target="_blank">https://book-api.dillonconstantine.com/</a>
+                                </p>
+                                <p class="mt-2">
+                                    Source: <a class="underline hover:text-blue-500" href="https://github.com/dillonconstantine/book-api" target="_blank">dillonconstantine/book-api</a>
+                                </p>
+                                <p class="mt-2">
+                                    Software: Laravel
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="flex flex flex-col items-center mt-12 lg:flex-row">
+                    <div class="flex items-center lg:w-1/2">
+                        <img class="shadow-xl rounded" src="img/exchange-bot.png">
+                    </div>
+                    <div class="flex flex-col justify-center px-2 mt-8 lg:w-1/2 lg:pl-16 lg:mt-0">
+                        <h2 class="font-bold text-2xl serif">Exchange Bot<h2>
+                        <div class="mt-4 sans-serif">
+                            <p>
+                                This is a personal project that I am currently working on that I embarked on for a mixture of fun, challenge and development of my skills.
+                            </p>
+                            <p class="mt-4">
+                                It aims to be able to automate trading strategies on a sports exchange such as Smarkets.
+                            </p>
+                            <p class="mt-4">
+                                Selenium is used to interact with Smarkets in the background which is then broadcasted to my frontend in realtime.
+                            </p>
+                            <p class="mt-4">
+                                Using this realtime feed of data, my next steps are to implement the functionality to be able to partake in trades based on certain parameters and conditions.
+                            </p>
+                            <p class="mt-4">
+                                This project isn't currently publicly hosted.
+                            </p>
+                            <div class="text-sm monospace mt-4">
+                                <p>
+                                    Source: <a class="underline hover:text-blue-500" href="https://github.com/dillonconstantine/exchange-bot" target="_blank">dillonconstantine/exchange-bot</a>
+                                </p>
+                                <p class="mt-2">
+                                    Software: Laravel, VueJS, jQuery, Bootstrap, MySQL, Selenium
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
                 <div class="flex flex-col items-center mt-4 lg:flex-row">
                     <div class="flex items-center lg:w-1/2">
                         <a href="https://smssashwindowspecialist.co.uk/" target="_blank">
@@ -97,33 +162,6 @@
                                     </p>
                                 </div>
                             </div>
-                    </div>
-                </div>
-                <div class="flex flex flex-col items-center mt-12 lg:flex-row">
-                    <div class="flex items-center lg:w-1/2">
-                        <img class="shadow-xl rounded" src="img/skynet.png">
-                    </div>
-                    <div class="flex flex-col justify-center px-2 mt-8 lg:w-1/2 lg:pl-16 lg:mt-0">
-                        <h2 class="font-bold text-2xl serif">Skynet <i class="la la-robot"></i> (WIP)<h2>
-                        <div class="mt-4 sans-serif">
-                            <p>
-                                A personal project I embarked on for a mixture of fun, challenge and development of my skills.
-                            </p>
-                            <p class="mt-4">
-                                The site aims to be able to automate betting strategies on a betting exchange such as Smarkets.
-                            </p>
-                            <p class="mt-4">
-                                Selenium WebDriver is used to interact with Smarkets in the background which then passes the data to Pusher and feeds it to my frontend in realtime.
-                            </p>
-                            <p class="mt-4">
-                                This realtime feed of data can then be used to implement functionality to automate betting strategies via filters and parameters.
-                            </p>
-                            <p class="mt-4">
-                                This project isn't currently publicly hosted.
-                            </p>
-                            <p class="mt-4 text-sm monospace">
-                                Software: Laravel, VueJS, jQuery, Bootstrap, Selenium, Pusher
-                            </p>
                         </div>
                     </div>
                 </div>
