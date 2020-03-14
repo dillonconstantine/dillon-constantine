@@ -78,10 +78,10 @@
                                 Book API is my most recent project built with the Laravel framework and makes use of the Laravel Passport package to provide a full OAuth2 server implementation.
                             </p>
                             <p class="mt-4">
-                                It makes use of a number of Laravel features such as form requests, API resources and custom middleware.
+                                It makes use of several Laravel features such as form requests, API resources and custom middleware.
                             </p>
                             <p class="mt-4">
-                                It follows the JSON:API specification for building APIs in JSON, and was built as a project to demonstrate my knowledge of RESTful APIs.
+                                It follows the JSON:API specification for building APIs in JSON and was built as a project to demonstrate my knowledge of RESTful APIs.
                             </p>
                             <div class="text-sm monospace mt-4">
                                 <p>
