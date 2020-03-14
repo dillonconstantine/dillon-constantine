@@ -68,11 +68,11 @@
                 <div class="flex flex flex-col items-center mt-12 lg:flex-row">
                     <div class="flex items-center lg:w-1/2">
                         <a href="https://book-api.dillonconstantine.com/" target="_blank">
-                            <img class="shadow-xl rounded" src="img/book-api.png">
+                            <img class="shadow-xl rounded" src="img/book-api.png" alt="Book API Screenshot">
                         </a>
                     </div>
                     <div class="flex flex-col justify-center px-2 mt-8 lg:w-1/2 lg:pl-16 lg:mt-0">
-                        <h2 class="font-bold text-2xl serif">Book API<h2>
+                        <h2 class="font-bold text-2xl serif">Book API</h2>
                         <div class="mt-4 sans-serif">
                             <p>
                                 Book API is my most recent project built with the Laravel framework and makes use of the Laravel Passport package to provide a full OAuth2 server implementation.
@@ -99,10 +99,10 @@
                 </div>
                 <div class="flex flex flex-col items-center mt-12 lg:flex-row">
                     <div class="flex items-center lg:w-1/2">
-                        <img class="shadow-xl rounded" src="img/exchange-bot.png">
+                        <img class="shadow-xl rounded" src="img/exchange-bot.png" alt="Exchange Bot Screenshot">
                     </div>
                     <div class="flex flex-col justify-center px-2 mt-8 lg:w-1/2 lg:pl-16 lg:mt-0">
-                        <h2 class="font-bold text-2xl serif">Exchange Bot<h2>
+                        <h2 class="font-bold text-2xl serif">Exchange Bot</h2>
                         <div class="mt-4 sans-serif">
                             <p>
                                 This is a personal project that I am currently working on that I embarked on for a mixture of fun, challenge and development of my skills.
@@ -133,35 +133,34 @@
                 <div class="flex flex-col items-center mt-4 lg:flex-row">
                     <div class="flex items-center lg:w-1/2">
                         <a href="https://smssashwindowspecialist.co.uk/" target="_blank">
-                            <img class="shadow-xl rounded" src="img/sms-sash-window-specialist.png">
+                            <img class="shadow-xl rounded" src="img/sms-sash-window-specialist.png" alt="SMS Sash Window Specialist Screenshot">
                         </a>
                     </div>
                     <div class="flex flex-col justify-center px-2 mt-8 lg:w-1/2 lg:pl-16 lg:mt-0">
-                        <h2 class="font-bold text-2xl serif">SMS Sash Window Specialist<h2>
-                            <div class="mt-4 sans-serif">
+                        <h2 class="font-bold text-2xl serif">SMS Sash Window Specialist</h2>
+                        <div class="mt-4 sans-serif">
+                            <p>
+                                A local business wanted a presence online so I built them a website to provide details of the services they offer and a point of contact.
+                            </p>
+                            <p class="mt-4">
+                                The site is built to be fully responsive when viewed on any device.
+                            </p>
+                            <p class="mt-4">
+                                The gallery features an image viewer which allows prospective customers to view prior work in closer detail.
+                            </p>
+                            <p class="mt-4">
+                                reCAPTCHA v3 is used on the contact page to help prevent spam in the least intrusive way possible.
+                            </p>
+                            <div class="text-sm monospace mt-4">
                                 <p>
-                                    A local business wanted a presence online so I built them a website to provide details of the services they offer and a point of contact.
+                                    Link: <a class="underline hover:text-blue-500" href="https://smssashwindowspecialist.co.uk/" target="_blank">https://smssashwindowspecialist.co.uk/</a>
                                 </p>
-                                <p class="mt-4">
-                                    The site is built to be fully responsive when viewed on any device.
+                                <p class="mt-2">
+                                    Source: <a class="underline hover:text-blue-500" href="https://github.com/dillonconstantine/sms-sash-window-specialist" target="_blank">dillonconstantine/sms-sash-window-specialist</a>
                                 </p>
-                                <p class="mt-4">
-                                    The gallery features an image viewer which allows prospective customers to view prior work in closer detail.
+                                <p class="mt-2">
+                                    Software: Laravel, VueJS, Tailwind
                                 </p>
-                                <p class="mt-4">
-                                    reCAPTCHA v3 is used on the contact page to help prevent spam in the least intrusive way possible.
-                                </p>
-                                <div class="text-sm monospace mt-4">
-                                    <p>
-                                        Link: <a class="underline hover:text-blue-500" href="https://smssashwindowspecialist.co.uk/" target="_blank">https://smssashwindowspecialist.co.uk/</a>
-                                    </p>
-                                    <p class="mt-2">
-                                        Source: <a class="underline hover:text-blue-500" href="https://github.com/dillonconstantine/sms-sash-window-specialist" target="_blank">dillonconstantine/sms-sash-window-specialist</a>
-                                    </p>
-                                    <p class="mt-2">
-                                        Software: Laravel, VueJS, Tailwind
-                                    </p>
-                                </div>
                             </div>
                         </div>
                     </div>
