@@ -46,6 +46,7 @@
     <main>
         <div class="text-right pt-4 pr-4">
             <a class="hover:text-blue-500" href="https://github.com/dillonconstantine/" target="_blank"><i class="la la-github text-3xl"></i></a>
+            <a class="hover:text-blue-500" href="https://linkedin.com/in/dillonconstantine" target="_blank"><i class="la la-linkedin text-3xl"></i></a>
         </div>
         <div class="container mx-auto text-center px-8">
             <div class="mt-12 text-4xl serif">
